@@ -9,7 +9,7 @@ const postModel = require('./models')
 
 //If other route send a message
 router.get('/', (req, res) => {
-    res.send("You are on Yato Confession API")
+    res.send("You are on lumiwakesup API")
 });
 
 //Give all post info
